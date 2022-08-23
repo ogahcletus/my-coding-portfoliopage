@@ -7,6 +7,7 @@ import Card from './Components/Card';
 import Footer from './Components/Footer';
 
 
+
 const theme = {
   colors: {
     header:'#00008B',
@@ -20,7 +21,7 @@ const theme = {
 
   function App() {
     return (
-      <ThemeProvider theme={theme}>
+      <ThemeProvider  theme={theme}>
       <>
       <GlobalStyles />
       <Header />

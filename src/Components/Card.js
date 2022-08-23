@@ -1,19 +1,19 @@
 import React from 'react'
 import { StyledCard } from './Styles/Card.styled';
 
-export default function Card({item: {id, title, body, image}}) {
+export default function Card({item: {id, title, description, link}}) {
   return (
-    <StyledCard layout={id % 2 === 0 && 'row-reverse'}  >
+    <StyledCard>
         <div>
             <h2>{title}</h2>
-            <p>{body}</p>
-        </div>
+            <p>{description}</p>
+        
+        
+        <button><a href={link}>Click Here To Website Demo at my replit/ogahcletus2022</a></button>
 
-        <div>
+        </div>
         
-            <img  src={`./images/${image}`}   alt='' />
-        
-         </div>
+         
 
 
     </StyledCard>

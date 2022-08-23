@@ -5,19 +5,29 @@ import styled from "styled-components";
 export const StyledHeader = styled.header`
     background-color: ${({theme}) => theme.colors.header};
     padding: 40px 0;
+    border-radius: 5%;
+    
+
+    
 
     h1 {
         color: #fff
     }
 
+    h3 {
+      color: white;
+      font-style: italic
+    }
+
     p{
-        font-family: sans-serif;
-        color: #fff
+        font-family: 'Arial Narrow'; 
+        color: white;
+        font-size: 20px
 
     }
 
     &:hover {
-       background-color: #FF0000
+       background-color: darkred;
 
     }
 `
@@ -29,6 +39,7 @@ export const Nav = styled.nav`
   margin-bottom: 40px;
   @media (max-width: ${({ theme }) => theme.mobile}) {
     flex-direction: column;
+
   }
 `
 
@@ -45,4 +56,6 @@ export const Image = styled.img`
   @media (max-width: ${({ theme }) => theme.mobile}) {
     margin: 40px 0px 30px;
   }
+
+  
 `

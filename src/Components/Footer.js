@@ -13,30 +13,36 @@ export default function Footer() {
         
 
         <Flex>
+
+        
         <ul>
-            <li>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+           <li>
+            Experience is the name everyone gives to their past mistakes!
+            <li>The lesson is to fix the causes, and not the symptoms!</li>
             </li>
+           </ul>
+           <ul> 
             <li>+234-8145265522</li>
-            <li>info@huddle_landingpage.com</li>
+            <li>+234-7030187213</li>
+            
           </ul>
           <ul>
-            <li>About Us</li>
-            <li>What We Do</li>
-            <li>FAQ</li>
+            <li>About Me</li>
+            <li>What I  Do</li>
+            
           </ul>
 
           <ul>
             <li>Career</li>
             <li>Blog</li>
-            <li>Contact Us</li>
+            <li>Contact Me</li>
           </ul>
 
          <SocialIcons /> 
 
         </Flex>
-        <p>&copy; 2022 Huddle_Landing_Page. All rights reserved</p>
+        <p>&copy; Cletus_Ogah@2022. All rights reserved</p>
         </Container>
 
     </StyledFooter>
