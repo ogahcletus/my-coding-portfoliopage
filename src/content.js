@@ -1,7 +1,7 @@
 const content = [
     {   id: 1,
       title: 'Cletus_Ogah Personal Website',
-      description: 'My personal Website Designed with Reactjs',
+      description: 'My personal Website Designed with Reactjs showing all lists of all my academic and professional certifications, career history including some coding projects',
       
       link: 'https://www.ogahcletus.com/'
   },
@@ -15,7 +15,7 @@ const content = [
   {   id: 3,
       title: 'Random Quotes Machine',
       description: 'A FreeCodeCamp Front Development Project of a Random Quote Machine build using react',
-      link: 'https://kleitosrandom-quote-app.ogahcletus2022.repl.co/'
+      link: 'https://random-quotes-app.ogahcletus2022.repl.co/'
   },
   
    { 
