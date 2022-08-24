@@ -3,7 +3,7 @@ const content = [
       title: 'Cletus_Ogah Personal Website',
       description: 'My personal Website Designed with Reactjs',
       
-      link: 'https://cletusogah-website.ogahcletus2022.repl.co/'
+      link: 'https://www.ogahcletus.com/'
   },
   
   {   id: 2,
