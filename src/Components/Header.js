@@ -17,7 +17,7 @@ export default function Header() {
              
             <h3>First, UNDERTAND the PROBLEM!</h3>
             <h3>Seconldly, SOLVE the PROBLEM!!</h3> 
-            <h3>LASTLY, write the CODES!!!</h3>
+            <h3>Thereafter, use the solution concept to design and write the CODES!!!</h3>
             <p>My name is Cletus Ogah</p>
             <p> 
             I am an engineer, banking operations executive, project managegement professional, data analyst and a Software Developer.

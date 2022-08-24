@@ -9,7 +9,7 @@ export default function Card({item: {id, title, description, link}}) {
             <p>{description}</p>
         
         
-        <button><a href={link}>Click Here To Website Demo at my replit/ogahcletus2022</a></button>
+        <button><a href={link}>Click Here To Website Demo</a></button>
 
         </div>
         
