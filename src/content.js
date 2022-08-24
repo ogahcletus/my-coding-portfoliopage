@@ -123,7 +123,43 @@ const content = [
     id: 18,
     title: 'File Metadata Microservice API',
     description: 'Metadata represents data about data. Metadata enriches the data with information that makes it easier to find, use and manage. For instance, HTML tags define layout for human readers. A File Metadata App is a Semantic metadata App that helps computers to interpret data by adding references to concepts in a knowledge graph.',
-    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/back-end-development-and-apis'
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/back-end-development-and-apis',
+  },
+
+  {
+    id: 19,
+    title: 'Build a Tribute Page',
+    description: 'A tribute page is basically an overview of someone whom we admire in our life. It was my very first project in freecode camp and as adeveloper.',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/responsive-web-design',
+  },
+
+  {
+    id: 20,
+    title: 'Build a Survey Form',
+    description: 'A survey is a form with questions specifically designed to gather information about people or users experiences, preferences, wants, and needs.',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/responsive-web-design'
+
+  },
+
+  {
+    id: 21,
+    title: 'Build a Product Landing Page',
+    description: 'A product landing page is a post-click page on a website designed specifically to promote or sell products or persuade visitors to convert to a product-related offer. In terms of design, it is similar to a traditional landing page. It is also a freecodecamp web responsive design project.',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/responsive-web-design',
+  },
+
+  {
+    id: 22,
+    title: 'Build a Technical Documentation Page',
+    description: 'Technical documentation is documentation that describes how a product or service works. It is more developer-focused focused created to describe (in technical language) the use, functionality or architecture of a product, system or service. This is a web responsive project by freecodecamp',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/responsive-web-design'
+  },
+
+  {
+    id: 23,
+    title: 'Build a Personal Portfolio Webpage',
+    description: 'A personal portfolio website is a professional website that provides information about what you do, what services you may offer, and how to contact you or your company. It is also one of my earliest project in freecodecamp web responsive design.',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/responsive-web-design'
   }
   
   ]
