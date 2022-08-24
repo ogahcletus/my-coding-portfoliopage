@@ -2,6 +2,7 @@ const content = [
     {   id: 1,
       title: 'Cletus_Ogah Personal Website',
       description: 'My personal Website Designed with Reactjs',
+      
       link: 'https://cletusogah-website.ogahcletus2022.repl.co/'
   },
   
@@ -74,6 +75,25 @@ const content = [
     title: 'A Drum Machine',
     description: 'A drum machine is an electronic musical instrument that creates percussion sounds, drum beats, and patterns. Drum machines may imitate drum kits or other percussion instruments, or produce unique sounds, such as synthesized electronic tones. A freecode FrontEnd project build using a umix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery.',
     link: 'https://www.freecodecamp.org/certification/ogahcletus2021/front-end-development-libraries'
+  },
+
+  {
+    id: 12,
+    title: 'Build a JavaScript Calculator',
+    description: 'A freecodecamp frondend development project build with a mix of any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery.Calculator is a portable device used in our daily life to perform various mathematical functions such as addition, subtraction, multiplication etc',
+    link: 'https://www.freecodecamp.org/certification/ogahcletus2021/front-end-development-libraries' 
+  },
+
+  {
+    id: 13,
+    title: 'Build a 25 + 5 Clock',
+    description: 'A 25 + 5 Clock gives you a prescribed interval of 25 minutes of work followed by a 5-minute break. After 4 work intervals, there is a 15-minute break. A freecodecamp frontend development project. ',
+    link:'https://www.freecodecamp.org/certification/ogahcletus2021/front-end-development-libraries'
+  },
+
+  {
+    id: 14,
+    title: ''
   }
   
   ]
